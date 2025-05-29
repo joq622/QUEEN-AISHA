@@ -1,7 +1,7 @@
 services:
   - type: web
-    name: jarvis
-    repo: https://github.com/Loki-Xer/jarvis.git
+    name: queen aisha
+    repo: https://github.com/joq622/QUEEN-AISHA.git
     branch: main
     env: docker
     dockerfilePath: Dockerfile
